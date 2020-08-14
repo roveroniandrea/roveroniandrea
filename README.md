@@ -1,5 +1,5 @@
 ## Hello there 👋
-![Coding image](./images/coding.gif)
+![Coding image](images/coding.gif)
 
 <!--
 **roveroniandrea/roveroniandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

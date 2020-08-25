@@ -21,6 +21,7 @@ E n _ p l a _ i n g
 
 | Letters called |
 | -----------    |
+|       e        |
 |       i        |
 |       n        |
 |       l        |
@@ -29,4 +30,4 @@ E n _ p l a _ i n g
 |       g        |
 |       u        |
 |       a        |
-<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NSwibGV0dGVyc0NhbGxlZCI6WyJpIiwibiIsImwiLCJmIiwicCIsImciLCJ1IiwiYSJdfQ==DATA-->
+<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NSwibGV0dGVyc0NhbGxlZCI6WyJlIiwiaSIsIm4iLCJsIiwiZiIsInAiLCJnIiwidSIsImEiXX0=DATA-->

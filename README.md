@@ -6,7 +6,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-E n _ p l a _ _ n g
+E n _ p l a _ i n g
 ```
 ## Tries remaining: 5
 
@@ -21,6 +21,7 @@ E n _ p l a _ _ n g
 
 | Letters called |
 | -----------    |
+|       i        |
 |       n        |
 |       l        |
 |       f        |
@@ -28,4 +29,4 @@ E n _ p l a _ _ n g
 |       g        |
 |       u        |
 |       a        |
-<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsZmFsc2UsdHJ1ZSx0cnVlXSwidHJpZXNSZW1haW5pbmciOjUsImxldHRlcnNDYWxsZWQiOlsibiIsImwiLCJmIiwicCIsImciLCJ1IiwiYSJdfQ==DATA-->
+<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NSwibGV0dGVyc0NhbGxlZCI6WyJpIiwibiIsImwiLCJmIiwicCIsImciLCJ1IiwiYSJdfQ==DATA-->

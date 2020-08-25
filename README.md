@@ -6,7 +6,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-P _ _ _ _ _ _ _ _ _ _ _ s
+P _ _ _ _ _ _ _ a _ _ _ s
 ```
 ## Tries remaining: 10
 
@@ -21,4 +21,5 @@ P _ _ _ _ _ _ _ _ _ _ _ s
 
 | Letters called |
 | -----------    |
-<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6MTAsImxldHRlcnNDYWxsZWQiOltdfQ==DATA-->
+|       a        |
+<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLHRydWUsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZV0sInRyaWVzUmVtYWluaW5nIjoxMCwibGV0dGVyc0NhbGxlZCI6WyJhIl19DATA-->

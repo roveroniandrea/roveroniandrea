@@ -8,7 +8,7 @@ const gameMustache = 'game.mustache';
 const dataFormat = ['<!--DATA', 'DATA-->'];
 const newGameSyntax = 'new-game';
 
-if (!process.argv[2]) {
+if (!process.argv[2] || process.argv[2].includes(newGameSyntax)) {
   // Scelgo una parola da indovinare
   let word = '';
   do {
@@ -28,7 +28,7 @@ if (!process.argv[2]) {
     newGame: newGameUrl(),
   });
 } else {
-  const letter = process.argv[2].toLowerCase();
+  const letter = process.argv[2].replace('hangman|', '').toLowerCase();
   const file = fs.readFileSync(readme).toString();
   const decodedData = decodeSolution(file.substring(file.indexOf(dataFormat[0]) + dataFormat[0].length, file.indexOf(dataFormat[1])));
 
@@ -109,6 +109,6 @@ function renderKeyboard() {
   return result;
 }
 
-function newGameUrl(){
-  return `https://github.com/roveroniandrea/roveroniandrea/issues/new?title=hangman%7C${newGameSyntax}&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.`
+function newGameUrl() {
+  return `https://github.com/roveroniandrea/roveroniandrea/issues/new?title=hangman%7C${newGameSyntax}&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.`;
 }

@@ -6,7 +6,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-P e _ _ e _ e _ a n _ e s
+P e _ s e _ e _ a n _ e s
 ```
 ## Tries remaining: 5
 
@@ -21,6 +21,7 @@ P e _ _ e _ e _ a n _ e s
 
 | Letters called |
 | -----------    |
+|       s        |
 |       o        |
 |       g        |
 |       t        |
@@ -29,4 +30,4 @@ P e _ _ e _ e _ a n _ e s
 |       i        |
 |       e        |
 |       a        |
-<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsZmFsc2UsdHJ1ZSxmYWxzZSx0cnVlLGZhbHNlLHRydWUsdHJ1ZSxmYWxzZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NSwibGV0dGVyc0NhbGxlZCI6WyJvIiwiZyIsInQiLCJuIiwiZCIsImkiLCJlIiwiYSJdfQ==DATA-->
+<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLGZhbHNlLHRydWUsZmFsc2UsdHJ1ZSx0cnVlLGZhbHNlLHRydWUsdHJ1ZV0sInRyaWVzUmVtYWluaW5nIjo1LCJsZXR0ZXJzQ2FsbGVkIjpbInMiLCJvIiwiZyIsInQiLCJuIiwiZCIsImkiLCJlIiwiYSJdfQ==DATA-->

@@ -8,7 +8,7 @@ You can play the hangman game on this readme!
 ```
 P e _ _ e _ e _ a n _ e s
 ```
-## Tries remaining: 7
+## Tries remaining: 6
 
 | [q](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cq&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [w](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cw&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [e](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Ce&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [r](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cr&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [t](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Ct&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [y](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cy&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [u](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cu&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [i](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Ci&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [o](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Co&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [p](https:&#x2F;&#x2F;github.com&#x2F;roveroniandrea&#x2F;roveroniandrea&#x2F;issues&#x2F;new?title&#x3D;hangman%7Cp&amp;body&#x3D;Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
 
@@ -21,10 +21,11 @@ P e _ _ e _ e _ a n _ e s
 
 | Letters called |
 | -----------    |
+|       g        |
 |       t        |
 |       n        |
 |       d        |
 |       i        |
 |       e        |
 |       a        |
-<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsZmFsc2UsdHJ1ZSxmYWxzZSx0cnVlLGZhbHNlLHRydWUsdHJ1ZSxmYWxzZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NywibGV0dGVyc0NhbGxlZCI6WyJ0IiwibiIsImQiLCJpIiwiZSIsImEiXX0=DATA-->
+<!--DATAeyJ3b3JkIjoicGVyc2V2ZXJhbmNlcyIsImd1ZXNzZWQiOlt0cnVlLHRydWUsZmFsc2UsZmFsc2UsdHJ1ZSxmYWxzZSx0cnVlLGZhbHNlLHRydWUsdHJ1ZSxmYWxzZSx0cnVlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NiwibGV0dGVyc0NhbGxlZCI6WyJnIiwidCIsIm4iLCJkIiwiaSIsImUiLCJhIl19DATA-->

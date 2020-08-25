@@ -1,0 +1,24 @@
+{
+  "name": "roveroniandrea",
+  "version": "1.0.0",
+  "description": "![Coding image](https://github.com/roveroniandrea/roveroniandrea/blob/master/images/coding-resize.gif)",
+  "main": "init-game.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roveroniandrea/roveroniandrea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roveroniandrea/roveroniandrea/issues"
+  },
+  "homepage": "https://github.com/roveroniandrea/roveroniandrea#readme",
+  "dependencies": {
+    "js-base64": "^3.4.5",
+    "mustache": "^4.0.1",
+    "random-word": "^2.0.0"
+  }
+}

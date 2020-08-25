@@ -6,7 +6,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-E _ _ _ _ a _ _ _ g
+E _ _ p _ a _ _ _ g
 ```
 ## Tries remaining: 6
 
@@ -22,7 +22,8 @@ E _ _ _ _ a _ _ _ g
 | Letters called |
 
 | -----------    | ----------- |
+|       p        |
 |       g        |
 |       u        |
 |       a        |
-<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlLHRydWUsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZV0sInRyaWVzUmVtYWluaW5nIjo2LCJsZXR0ZXJzQ2FsbGVkIjpbImciLCJ1IiwiYSJdfQ==DATA-->
+<!--DATAeyJ3b3JkIjoiZW5kcGxheWluZyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLHRydWUsZmFsc2UsdHJ1ZSxmYWxzZSxmYWxzZSxmYWxzZSx0cnVlXSwidHJpZXNSZW1haW5pbmciOjYsImxldHRlcnNDYWxsZWQiOlsicCIsImciLCJ1IiwiYSJdfQ==DATA-->

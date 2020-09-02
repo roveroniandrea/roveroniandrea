@@ -6,7 +6,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-S _ _ _ _ _ o _ s
+S _ _ _ h _ o _ s
 ```
 ## Tries remaining: 3
 
@@ -21,8 +21,9 @@ S _ _ _ _ _ o _ s
 
 | Letters called |
 | -----------    |
+|       h        |
 |       o        |
 |       a        |
 |       i        |
 |       e        |
-<!--DATAeyJ3b3JkIjoic3ludGhwb3BzIiwiZ3Vlc3NlZCI6W3RydWUsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZSxmYWxzZSx0cnVlXSwidHJpZXNSZW1haW5pbmciOjMsImxldHRlcnNDYWxsZWQiOlsibyIsImEiLCJpIiwiZSJdfQ==DATA-->
+<!--DATAeyJ3b3JkIjoic3ludGhwb3BzIiwiZ3Vlc3NlZCI6W3RydWUsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZSxmYWxzZSx0cnVlLGZhbHNlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6MywibGV0dGVyc0NhbGxlZCI6WyJoIiwibyIsImEiLCJpIiwiZSJdfQ==DATA-->

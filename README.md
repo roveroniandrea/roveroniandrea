@@ -15,13 +15,16 @@ const roveroniandrea = {
 };
 ```
 
+![roveroniandrea](https://github-readme-stats.vercel.app/api?username=roveroniandrea&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roveroniandrea&layout=compact&theme=gotham)
+
 # Hangman game
 You can play the hangman game on this readme!
 <!--GAME-->
 
 ## The word to guess:
 ```
-F _ _ _ _ _ _ s
+F _ _ _ a _ _ s
 ```
 ## Tries remaining: 5
 
@@ -36,4 +39,5 @@ F _ _ _ _ _ _ s
 
 | Letters called |
 | -----------    |
-<!--DATAeyJ3b3JkIjoiZnV0aGFya3MiLCJndWVzc2VkIjpbdHJ1ZSxmYWxzZSxmYWxzZSxmYWxzZSxmYWxzZSxmYWxzZSxmYWxzZSx0cnVlXSwidHJpZXNSZW1haW5pbmciOjUsImxldHRlcnNDYWxsZWQiOltdfQ==DATA-->
+|       a        |
+<!--DATAeyJ3b3JkIjoiZnV0aGFya3MiLCJndWVzc2VkIjpbdHJ1ZSxmYWxzZSxmYWxzZSxmYWxzZSx0cnVlLGZhbHNlLGZhbHNlLHRydWVdLCJ0cmllc1JlbWFpbmluZyI6NSwibGV0dGVyc0NhbGxlZCI6WyJhIl19DATA-->

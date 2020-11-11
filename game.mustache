@@ -24,13 +24,17 @@ You can play the hangman game on this readme!
 {{#lost}}## You lost!
 [New game]({{newGame}})
 {{/lost}}
+{{#won}}## You won!
+[New game]({{newGame}})
+{{/won}}
 
-## The word to guess{{#lost}} was{{/lost}}:
+## The word to guess{{#lost}} was{{/lost}}{{#won}} was{{/won}}:
 ```
 {{secretWord}}
 ```
 ## Tries remaining: {{triesRemaining}}
 
+{{^won}}
 {{^lost}}
 {{#keyboard}}
 {{#.}}| [{{letter}}]({{url}}) {{/.}}|
@@ -38,6 +42,7 @@ You can play the hangman game on this readme!
 
 {{/keyboard}}
 {{/lost}}
+{{/won}}
 | Letters called |
 | -----------    |
 {{#lettersCalled}}

@@ -5,10 +5,9 @@ const roveroniandrea = {
   favoriteLanguage: 'Javascript',
   frontend: ['js', 'ts', 'Angular'],
   backend: ['NodeJs', 'Express', 'Firebase'],
-  languages: ['Javascript', 'Typescript', 'c', 'Dart', 'SQL'],
+  languages: ['Javascript', 'Typescript', 'c', 'Dart', 'SQL', 'Java'],
   tools: ['VS Code', 'IntelliJ IDEA', 'Unity Engine', 'Github', 'Bitbucket'],
-  experimentedWith: ['Flutter', 'Electron', 'c++', 'Ngrx', 'Neural Networks', 'Microsoft Q#', 'F#', 'Markdown'],
-  other: ['Arduino', 'Scratch', 'StackOverflow'],
+  experimentedWith: ['Flutter', 'Electron', 'Neural Networks', 'Microsoft Q#'],
   loves: 'Star Wars',
   isStudent: true,
   dontLike: 'Bugs' // FIXME: not working

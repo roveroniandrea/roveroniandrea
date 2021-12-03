@@ -21,7 +21,7 @@ You can play the hangman game on this readme!
 
 ## The word to guess:
 ```
-K _ _ _ a _ _ _ _ s
+K _ _ _ a _ _ _ e s
 ```
 ## Tries remaining: 7
 
@@ -36,6 +36,7 @@ K _ _ _ a _ _ _ _ s
 
 | Letters called |
 | -----------    |
+|       e        |
 |               |
 |       a        |
-<!--DATAeyJ3b3JkIjoia290dGFib3NlcyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLGZhbHNlLHRydWUsZmFsc2UsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZV0sInRyaWVzUmVtYWluaW5nIjo3LCJsZXR0ZXJzQ2FsbGVkIjpbIiIsImEiXX0=DATA-->
+<!--DATAeyJ3b3JkIjoia290dGFib3NlcyIsImd1ZXNzZWQiOlt0cnVlLGZhbHNlLGZhbHNlLGZhbHNlLHRydWUsZmFsc2UsZmFsc2UsZmFsc2UsdHJ1ZSx0cnVlXSwidHJpZXNSZW1haW5pbmciOjcsImxldHRlcnNDYWxsZWQiOlsiZSIsIiIsImEiXX0=DATA-->
